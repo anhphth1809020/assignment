@@ -1,0 +1,3 @@
+C:/Users/HONG ANH/CLionProjects/assignmentfixxx/cmake-build-debug/CMakeFiles/assignmentfixxx.dir
+C:/Users/HONG ANH/CLionProjects/assignmentfixxx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HONG ANH/CLionProjects/assignmentfixxx/cmake-build-debug/CMakeFiles/rebuild_cache.dir

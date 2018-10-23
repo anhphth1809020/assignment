@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HONG ANH/CLionProjects/assignmentfixxx/main.c
+conio.h
+-
+stdio.h
+-
+windows.h
+-
+string.h
+-
+stdlib.h
+-
+
